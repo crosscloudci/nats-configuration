@@ -1,14 +1,14 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/color/cncf-color.svg?sanitize=true"
-  display_name: Test Project
-  sub_title: Testing
-  project_url: "https://github.com/crosscloudci/testproj"
-  stable_ref: "v0.0.4"
+  display_name: NATS
+  sub_title: High-Performance server for NATS, the cloud native messaging system.
+  project_url: "https://github.com/nats-io/nats-server"
+  stable_ref: "v2.1.0"
   head_ref: "master"
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/cncfci/testproj"  # can be anything for citest
-      ci_project_name: "crosscloudci/testproj"
+      ci_project_url: "https://example.com/nats-io/nats-server"  # can be anything for citest
+      ci_project_name: "nats-io/nats-server"
       arch:
         - amd64

@@ -1,1 +1,1 @@
-# testproj-configuration
+# nats-configuration
