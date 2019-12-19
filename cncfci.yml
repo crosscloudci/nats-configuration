@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/color/cncf-color.svg?sanitize=true"
   display_name: NATS
-  sub_title: High-Performance server for NATS, the cloud native messaging system.
+  sub_title: Messaging
   project_url: "https://github.com/nats-io/nats-server"
   stable_ref: "v2.1.0"
   head_ref: "master"
