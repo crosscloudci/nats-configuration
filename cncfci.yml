@@ -8,7 +8,7 @@
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/nats-io/nats-server"  # can be anything for citest
+      ci_project_url: "https://example.com/nats-io/nats-server"  
       ci_project_name: "nats-io/nats-server"
       arch:
         - amd64
